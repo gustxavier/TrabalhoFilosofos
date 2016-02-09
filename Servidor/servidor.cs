@@ -11,5 +11,10 @@ namespace Servidor
 {
     class Servidor
     {
+        public Servidor()
+        {
+            
+
+        }
     }
 }
